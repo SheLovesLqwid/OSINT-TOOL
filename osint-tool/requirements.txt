@@ -1,0 +1,6 @@
+# Python dependencies
+requests
+whois
+dns-python
+pillow
+tabulate

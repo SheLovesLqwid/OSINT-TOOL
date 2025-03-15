@@ -1,0 +1,11 @@
+{
+  "api_keys": {
+      "numverify": "YOUR_API_KEY",
+      "hibp": "YOUR_API_KEY"
+  },
+  "proxy": {
+      "enabled": false,
+      "http": "",
+      "https": ""
+  }
+}
