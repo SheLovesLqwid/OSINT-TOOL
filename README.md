@@ -175,7 +175,7 @@ Select **Option 5** → **Enter a search term** → **Results appear!** 🚀
 # 🚀 **Contributing**
 Want to add a feature? Fork the repo, make changes, and submit a pull request! 🚀  
 ```powershell
-git clone https://github.com/yourusername/osint-tool.git
+git clone https://github.com/SheLovesLqwid/osint-tool.git
 cd osint-tool
 ```
 
